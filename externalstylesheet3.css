@@ -1,0 +1,124 @@
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface|Antic+Slab|Bad+Script|Bree+Serif|Cinzel|Cookie|Cormorant+Garamond|Cormorant+Infant|Dancing+Script|Dosis|Glegoo|Great+Vibes|Handlee|Kaushan+Script|Libre+Baskerville|Lobster|Molle:400i|Nova+Script|Oleo+Script|PT+Sans+Caption|Pacifico|Philosopher|Playfair+Display+SC|Poiret+One|Sacramento|Satisfy|Yellowtail);
+
+header {
+      position: relative;
+      height: 250px;
+      width: 1000px;
+      background: rgba(77, 102, 66, 0.7);
+      margin-left: 100px;
+      text-align: center;
+      color: #80f442;
+      padding: 10px;
+    }
+    a {
+      color: black;
+    }
+    #intro {
+      font-size: 35px;
+      text-shadow: 2px 2px black;
+      font-family: Bree Serif;
+      color: white;
+    }
+    p.caption {
+      position: relative;
+      font-size: 15px;
+      font-family: Bree Serif;
+      text-align: center;
+      text-shadow: 2px 2px black;
+      color: white;
+    }
+    p.content {
+      text-align: left;
+    }
+    h2 {
+      font-size: 30px;
+      text-shadow: 2px 2px black;
+      font-family: Playfair Display SC;
+      text-align: center;
+    }
+    h3 {
+      font-size: 12px;
+      text-align: center;
+      font-family: Glegoo;
+      text-shadow: 2px 2px black;
+      border-bottom-style: solid;
+      padding: 2px;
+    }
+    span {
+      font-size: 50px;
+      color: white;
+      font-family: Abril Fatface;
+    }
+    section {
+      position: absolute;
+      top: 283px;
+      height: 510px;
+      width: 635px;
+      background: rgba(114, 122, 111, 0.7);
+      margin-left: 445px;
+      margin-right: 28px;
+      padding: 20px;
+      color: white;
+      overflow-y: scroll;
+    }
+    aside {
+      height: 200px;
+      width: 300px;
+      margin-top: 5px;
+      margin-left: 100px;
+      padding: 20px;
+      color: #f7f9fc;
+      font-size: 12px;
+      background: rgba(77, 102, 66, 0.7);
+    }
+    img {
+      float: left;
+      margin: 0px 20px 10px 0px;
+      border: 2px black;
+      border-style: solid;
+      border-radius: 25px;
+    }
+    nav {
+      height: 300px;
+      width: 335px;
+      margin-top: 5px;
+      margin-left: 100px;
+      text-align: left;
+      color: #f7f9fc;
+      padding: 2px;
+      background: rgba(77, 102, 66, 0.7);
+    }
+    ul {
+      display: block;
+      color: #f7f9fc;
+      list-style-type: none;
+    }
+    li a {
+      display: block;
+      color: #f7f9fc;
+      padding: 8px 16px 4px;
+      text-decoration: none;
+    }
+    li a:hover {
+      width: 100px;
+      background-color: #555;
+      color: white;
+    }
+    body {
+      background: url("http://ctay142.mystudenthosting.com/images/keyboard.jpg");
+      background-size: cover;
+      background-position: center;
+      color: black;
+      font-family: helvetica;
+    }
+    footer {
+      position: absolute;
+      height: 50px;
+      width: 980px;
+      margin-top: 0px;
+      margin-left: 100px;
+      text-align: center;
+      padding: 15px;
+      color: #f7f9fc;
+      background: rgba(77, 102, 66, 0.7);
+    }
