@@ -105,10 +105,7 @@ header {
       color: white;
     }
     body {
-      background: url("http://ctay142.mystudenthosting.com/images/keyboard.jpg");
-      background-size: cover;
-      background-position: center;
-      color: black;
+      color: white;
       font-family: helvetica;
     }
     footer {
