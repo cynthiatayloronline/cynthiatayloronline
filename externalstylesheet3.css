@@ -30,6 +30,11 @@ header {
     p.content {
       text-align: left;
     }
+    h1 {
+      font-size: 40px;
+      font-family: Roboto;
+      text-align: left;
+      }
     h2 {
       font-size: 30px;
       text-shadow: 2px 2px black;
