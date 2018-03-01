@@ -2,7 +2,7 @@
 
 This is my person portfolio site documenting all my current projects (completed and in progress).
 
-If you'd like to work with any codes used on my projects, please see my other repos before submitting pull requests.
+My page changes constantly.  Please check out my other repos if you'd like to play with any of my code. ;)
 
 Thanks,
 Cynthia
