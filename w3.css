@@ -384,6 +384,7 @@ a{
     word-wrap: break-word;
     position: absolute;
     top: 50%;
+    left: 20%;
     transform: translate(-50%, -50%);
     color: navy;
 }
