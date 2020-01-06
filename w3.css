@@ -381,9 +381,10 @@ a{
 /* Place text in the middle of the image */
 .hero-text {
     text-align: center;
+    word-wrap: break-word;
     position: absolute;
     top: 50%;
-    left: 40%;
+    left: 60%;
     transform: translate(-50%, -50%);
     color: navy;
 }
